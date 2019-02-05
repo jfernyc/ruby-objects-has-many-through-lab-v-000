@@ -28,8 +28,6 @@ class Patient
     Appointment.all.map |appointment|
     appointment.doctor 
   end 
-end 
 
-end 
 
 end 
